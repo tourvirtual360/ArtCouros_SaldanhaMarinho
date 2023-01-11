@@ -1,0 +1,30 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Sandálias, Bolsas, Carteiras em Couros
+
+### Title
+tour.name = Art Couros - Loja Saldanha Marinho
+
+## Media
+
+### Title
+panorama_6423FCE0_75CB_4D9C_41C2_72080B78C2BA.label = IMG_20221228_173057_00_merged
+panorama_9021D77A_9F00_1B74_41DB_6C048C1E0823.label = IMG_20230104_170110_00_merged
+panorama_90276BCB_9F00_0BAB_41E2_7EAC81E8C307.label = IMG_20230104_170155_00_merged
+panorama_9027BE3C_9F00_0CEC_41CC_7C28C096E75B.label = IMG_20230104_170241_00_merged
+panorama_90DB9867_9F00_349B_41E2_7B3FDB5462F7.label = IMG_20230104_170016_00_merged(1)
+
+## Action
+
+### URL
+LinkBehaviour_201482C8_38DC_96A0_41C6_04BAA827A341.source = https://tr.ee/grn261tgO_
+LinkBehaviour_20FF7D66_38CC_F260_41C0_7D8B5B8449EB.source = https://www.instagram.com/artcourosoficial/
+LinkBehaviour_214BF2E2_38DD_B660_41B8_08AE2E7FEA67.source = https://goo.gl/maps/jC8TczYRgFp2gXjE7
+LinkBehaviour_2FAEA3A4_38DC_96E0_41B3_A7F4AB43D518.source = https://pt-br.facebook.com/artcourosoficial/
+LinkBehaviour_67106085_7599_E8C1_41C6_6EB26C0102C2.source = https://pt-br.facebook.com/artcourosoficial/
+LinkBehaviour_6710B085_7599_E8C1_41B7_4B488E22AC89.source = https://goo.gl/maps/jC8TczYRgFp2gXjE7
+LinkBehaviour_6710F084_7599_E8C7_41B3_DFDB758B2A48.source = https://tr.ee/grn261tgO_
+LinkBehaviour_67130083_7599_E8C1_41DB_15E365B0E3EF.source = https://www.instagram.com/artcourosoficial/
